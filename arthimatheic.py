@@ -1,0 +1,7 @@
+print(5+99)
+print(50-222)
+print(89*69)
+print(44/5)
+print(44//5)
+print(44%5)
+print(2**3)
