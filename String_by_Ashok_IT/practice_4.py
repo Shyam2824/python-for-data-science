@@ -10,5 +10,5 @@ for char in string:
         char_count[char] =1
     
 print("characteristic :- ")
-#for char, count in char_count.items():
-print(f" {char} : {char_count}") 
+for char, count in char_count.items():
+    print(f" {char} : {count}") 
