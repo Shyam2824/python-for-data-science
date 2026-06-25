@@ -9,3 +9,8 @@ for char in string:
         result += char
         
 print("String after removing duplicates: ", result)
+
+
+string2= input("Enter the string:= ")
+result="".join(set(string))
+print(result)
